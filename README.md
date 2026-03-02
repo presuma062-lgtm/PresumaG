@@ -3,4 +3,3 @@
 - 📊 Currently mastering: Excel, Python, and SQL.
 - 🎓 GPA: 3.80
 - 📍 Based in Boston, MA
-- [Insert LinkedIn Link Here]
